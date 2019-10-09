@@ -1,5 +1,5 @@
 # agileJAVA学习
-##搭建环境
+## 搭建环境
 1. 初始化java环境
 ```
 gradle init --type java-library
@@ -10,4 +10,4 @@ gradle init --type java-library
 ```
 git init
 ```
-4. 上传代码
+4. 上传代码?
