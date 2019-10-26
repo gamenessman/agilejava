@@ -3,6 +3,6 @@ package com.agilejava.one;
 public class Calculator {
 
     public int add(int a, int b) {
-        return a+b;
+        return a + b;
     }
 }
