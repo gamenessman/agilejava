@@ -8,13 +8,13 @@ public class GameNamber {
     }
 
     public String say() {
-        if(isdividable(5) && isdividable(3)){
+        if (isdividable(5) && isdividable(3)) {
             return "fizzbuzz";
         }
-        if(isdividable(3)){
+        if (isdividable(3)) {
             return "fizz";
         }
-        if(isdividable(5)){
+        if (isdividable(5)) {
             return "buzz";
         }
         return String.valueOf(this.value);
